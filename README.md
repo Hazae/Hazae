@@ -13,7 +13,7 @@
 - 👀 I’m interested in FE Frameworks recently.
 - 🌱 I’m currently learning how JS Frameworks work and Algorithm.
 - 💞️ I’m working on a small Vue.js project now.
-- 📫 Contact how? xenn23@kakao.com
+- 📫 Contact how? ewko0220@gmail.com
 
 <!---
 Hazae/Hazae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
