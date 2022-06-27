@@ -10,10 +10,10 @@
   <img alt="Adobe Photoshop" src ="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe Photoshop&logoColor=black"/>
 </p>
 
-- 👀 I’m interested in FE Frameworks recently.
-- 🌱 I’m currently learning how JS Frameworks work and Algorithm.
-- 💞️ I’m working on a small Vue.js project now.
-- 📫 Contact how? ewko0220@gmail.com
+- 👀 I’m interested in FE Frameworks & UIUX like always.
+- 🌱 I’m currently learning how JS Frameworks especially Next.js work and enjoy dicussing UIUX problems.
+- 💞️ I’m working for an AD-Tech company.
+- 📫 Do you want to contact me? Mail here! ewko0220@gmail.com
 
 <!---
 Hazae/Hazae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
