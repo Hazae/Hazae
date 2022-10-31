@@ -13,7 +13,7 @@
 </p>
 
 - 👀 I’m interested in FE Frameworks & UIUX like always.
-- 🌱 I’m currently learning how JS Frameworks especially Next.js work and enjoy dicussing UIUX problems.
+- 🌱 I’m currently learning how JS Frameworks especially React.js work and enjoy dicussing UIUX problems.
 - 💞️ I’m working for an AD-Tech company.
 - 📫 Do you want to contact me? Mail here! ewko0220@gmail.com
 
