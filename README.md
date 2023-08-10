@@ -8,13 +8,12 @@
   <img alt="React.js" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=black"/>
   <img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=black"/>
   <img alt="Vuetify" src ="https://img.shields.io/badge/Vuetify-1867C0.svg?&style=for-the-badge&logo=Vuetify&logoColor=black"/>
-  <img alt="Adobe XD" src ="https://img.shields.io/badge/Adobe XD-FF61F6.svg?&style=for-the-badge&logo=Adobe XD&logoColor=black"/>
   <img alt="Adobe Photoshop" src ="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe Photoshop&logoColor=black"/>
 </p>
 
 - 👀 I’m interested in FE Frameworks & UIUX like always.
 - 🌱 I’m currently learning how JS Frameworks especially React.js work and enjoy dicussing UIUX problems.
-- 💞️ I’m working for an AD-Tech company.
+- 💞️ I’m searching for companies.
 - 📫 Do you want to contact me? Mail here! ewko0220@gmail.com
 
 <!---
